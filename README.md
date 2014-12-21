@@ -12,7 +12,7 @@ A small C# code can do that as follows : (Most of the code has been taken out fo
 
 @foreach (var item in Model)
 {
-.........
+....some code.....
  if (item.opsiyon1 != null)
         {
             <div class="row-fluid">
@@ -24,6 +24,6 @@ A small C# code can do that as follows : (Most of the code has been taken out fo
                 </div>
             </div>
         }
-        .............
+       ....some code.....
 }
-========================================================
+
